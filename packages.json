@@ -1,0 +1,52 @@
+[
+    {
+      "package": "sunburstR",
+      "url": "https://github.com/timelyportfolio/sunburstR",
+      "branch": "master"
+    },
+    {
+      "package": "d3r",
+      "url": "https://github.com/timelyportfolio/d3r",
+      "branch": "master"
+    },
+    {
+      "package": "vueR",
+      "url": "https://github.com/vue-r/vueR",
+      "branch": "master"
+    },
+    {
+      "package": "reactR",
+      "url": "https://github.com/react-R/reactR",
+      "branch": "master"
+    },
+    {
+      "package": "svgPanZoom",
+      "url": "https://github.com/timelyportfolio/svgPanZoom",
+      "branch": "master"
+    },
+    {
+      "package": "leaftime",
+      "url": "https://github.com/timelyportfolio/leaftime",
+      "branch": "master"
+    },
+    {
+      "package": "listviewer",
+      "url": "https://github.com/timelyportfolio/listviewer",
+      "branch": "master"
+    },
+    {
+      "package": "shinyTree",
+      "url": "https://github.com/timelyportfolio/shinyTree",
+      "branch": "master"
+    },
+    {
+      "package": "parcoords",
+      "url": "https://github.com/timelyportfolio/parcoords",
+      "branch": "master"
+    },
+    {
+      "package": "dataui",
+      "url": "https://github.com/timelyportfolio/dataui",
+      "branch": "master"
+    },
+]
