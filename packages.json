@@ -48,10 +48,5 @@
     "package": "dataui",
     "url": "https://github.com/timelyportfolio/dataui",
     "branch": "master"
-  },
-  {
-    "package": "curl",
-    "url": "https://github.com/timelyportfolio/curl",
-    "branch": "master"
   }
 ]
